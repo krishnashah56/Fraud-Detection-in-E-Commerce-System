@@ -1,0 +1,9 @@
+transaction_amount,time_since_last_order,ip_mismatch_flag,device_type_encoded,historical_fraud_count
+120,240,0,0,0
+340,180,0,1,0
+620,45,0,2,1
+1100,6,1,0,0
+1840,12,1,1,2
+75,360,0,0,0
+2500,4,1,1,3
+480,30,0,2,1
